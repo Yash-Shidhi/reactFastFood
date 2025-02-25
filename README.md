@@ -1,4 +1,4 @@
-# React + Vite
+# Food Delivery Website
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -15,3 +15,5 @@ Checkout (LIVE) :   https://tomato-food-del.netlify.app/
 • Simplified browsing via food item categorization for easy exploration.
 • Enabled seamless item addition, quantity adjustment, and checkout. 
 • Developed layout ensuring access across devices along with Login/Signup functionality
+
+#nkjbnksb
